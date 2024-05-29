@@ -1,6 +1,6 @@
 {
   "name": "myapp1",
-  "homepage": " https://github.com/9mlih",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

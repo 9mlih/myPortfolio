@@ -6,14 +6,11 @@ import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
 import Button from "../../components/button/Button";
 import { openSource } from "../../portfolio";
 import { greeting } from "../../portfolio.js";
-
 export default function Projects() {
   const [repo, setrepo] = useState([]);
-
   useEffect(() => {
     getRepoData();
-  }, []);
-
+  }, );
   function getRepoData() {
     const client = new ApolloClient({
       uri: "https://api.github.com/graphql",
@@ -25,7 +22,6 @@ export default function Projects() {
         });
       },
     });
-
     client
       .query({
         query: gql`
@@ -61,7 +57,6 @@ export default function Projects() {
         console.log(result);
       });
   }
-
   function setrepoFunction(array) {
     setrepo(array);
   }

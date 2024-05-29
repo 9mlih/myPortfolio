@@ -25,7 +25,7 @@ const settings = {
       "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
     resumeLink:
       "https://drive.google.com/file/d/1jlGbVAyvOyU4WRr9N_RSYt6vJtjPJ1Hv/view?usp=drivesdk",
-    portfolio_repository: "https://github.com/9mlih",
+    portfolio_repository: "https://git@github.com:9mlih/myPortfolio.git",
     githubProfile: "https://github.com/9mlih",
   };
   
