@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "ashutosh1919",
+      "login": "9mlih",
       "name": "Abdulqawi Baggash",
       "avatar_url": "https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-      "profile": "http://ashutosh1919.github.io",
+      "profile": "https://github.com/9mlih",
       "contributions": [
         "code",
         "doc",
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "login": "ashutosh1919",
+      "login": "9mlih",
       "name": "Abdulqawi Baggash",
       "avatar_url": "https://avatars.githubusercontent.com/u/59281502?v=4",
       "profile": "https://github.com/9mlih",
@@ -257,7 +257,7 @@
   ],
   "contributorsPerLine": 7,
   "projectName": "masterPortfolio",
-  "projectOwner": "ashutosh1919",
+  "projectOwner": "9mlih",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,

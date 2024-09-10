@@ -36,7 +36,7 @@ const settings = {
     // gmail: "ashutoshhathidara98@gmail.com",
     // gitlab: "https://gitlab.com/ashutoshhathidara98",
     // facebook: "https://www.facebook.com/laymanbrother.19/",
-    // twitter: "https://twitter.com/ashutosh_1919",
+    // twitter: "https://twitter.com/8mlih",
     // instagram: "https://www.instagram.com/layman_brother/"
   
     {
@@ -67,7 +67,7 @@ const settings = {
     },
     // {
     //   name: "Twitter",
-    //   link: "https://twitter.com/ashutosh_1919",
+    //   link: "https://twitter.com/8mlih",
     //   fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     //   backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
     // },
@@ -249,7 +249,7 @@ const settings = {
         style: {
           color: "#5B4638",
         },
-        profileLink: "https://www.codechef.com/users/ashutosh_1919",
+        profileLink: "https://www.codechef.com/users/9mlih",
       },
       {
         siteName: "Codeforces",
