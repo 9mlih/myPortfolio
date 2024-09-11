@@ -6,10 +6,10 @@
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
  
-<p align="center">If you want to discuss about something, you can ask on my <a href="h https://github.com/9mlih">my website</a>.</p>
+<p align="center">If you want to discuss about something, you can ask on my <a href="https://Abdulqawi.netlify.app/#/home">my website</a>.</p>
 
 <p align="center"> 
-    <a href=" https://github.com/9mlih" target="_blank">
+    <a href="https://Abdulqwi.netlify.app/#/home" target="_blank">
     <img src="images/masterPortfolioThemes.png"></img>
   </a>
 </p>
@@ -22,7 +22,7 @@
 ✔️ Experience\
 ✔️ Contact me
 
-To view a live example, **[click here](https://9mlih.netlify.app/)**
+To view a live example, **[click here](https://Abdulqwi.netlify.app/)**
 
 # Clone and Use 📋
 
@@ -103,7 +103,7 @@ Whenever you want to update the github related information on the website you ne
 
 ### Splash Logo
 
-Note here that if you click [my portfolio](h https://github.com/9mlih/), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
+Note here that if you click [my portfolio](https://Abdulqwi.netlify.app/), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
 Therefore, this part of portfolio is not customizable. But don't worry we have a solution to this problem. You have below two alternatives:
 
 - If you want to design your own logo, then you can design it using `Figma` or `Adobe XD` or `Adobe Illustrator` or `Inkscape`. If you want to animate it, you can refer to `./src/components/Loader` directory which contains `js` and `css` files which animates the logo
@@ -176,12 +176,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 # Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://git@github.com:9mlih/myPortfolio.git/pulls) or [issue](https://git@github.com:9mlih/myPortfolio.git/issues).
+If you can help us with these. Please don't hesitate to open an [pull request](https://git@github.com:9mlih/myPortfolio.git/pulls) or [issue](https://git@github.com:9mlih/myPortfolio/issues).
 
 - Move to Gatsby
 - Add Podcast Section and Video Section
 - Add tests to automate review.
 - Setup Travis workflow.
-
-#   m y P o r t f o l i o  
- 
